@@ -1,0 +1,2 @@
+# autoSendQQ
+autoSendQQNews
